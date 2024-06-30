@@ -8,4 +8,4 @@ then
 npm start
 ```
 
-(c) Rasya R.
+> (c) 2024 Rasya R. || MIT License
