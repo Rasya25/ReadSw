@@ -1,0 +1,29 @@
+{
+  "name": "chocopy",
+  "version": "1.0.0",
+  "description": " read status whatsapp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js --max-old-space-size=8192",
+    "pm2": "pm2 start index.js --name choco -- --max-old-space-size=8192",
+    "restart:pm2": "pm2 restart choco",
+    "stop:pm2": "pm2 stop choco"
+  },
+  "keywords": [
+    "autoreadsw",
+    "baileys",
+    "chocopy"
+  ],
+  "author": "Rasya R.",
+  "license": "MIT",
+  "dependencies": {
+    "@chocoopy/baileys": "latest",
+    "cfonts": "^3.2.0",
+    "dotenv": "^16.3.1",
+    "file-type": "latest",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-webpmux": "^3.1.9",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
