@@ -9,3 +9,14 @@ npm start
 ```
 
 > (c) 2024 Rasya R. || MIT License
+
+
+# Thanks To
+* Allah SWT.
+* Nabi Muhammad SAW.
+* My Parrents
+* My Friends
+* Hishoka
+* XYZ Team
+
+> idk manut aja gw mh mlas ribot
