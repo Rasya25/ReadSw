@@ -16,7 +16,7 @@ npm start
 * Nabi Muhammad SAW.
 * My Parrents
 * My Friends
-* Hishoka
+* DikaArdnt
 * XYZ Team
 
 > idk manut aja gw mh mlas ribot
